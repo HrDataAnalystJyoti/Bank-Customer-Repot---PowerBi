@@ -21,5 +21,4 @@ Grade and sub grade wise revol_bal
 Total Payment for Verified Status Vs Total Payment for Non Verified Status
 State wise and month wise loan status
 Home ownership Vs last payment date stats.
-![image](https://github.com/HrDataAnalystJyoti/Bank-Customer-Repot---PowerBi/assets/173760947/a309a8a6-1d27-4daf-9048-d0ed108e91e4)
 
