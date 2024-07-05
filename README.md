@@ -1,24 +1,45 @@
-# Bank-Customer-Repot---PowerBi
-Domain : Finance
-Project: Bank loan of customers
-Datasets: Finance_1.xlsx & Finance_2.xlsx
-Dataset Type: Excel Data
-Dataset Size: Each Excel file has 39k+ records
-Total Loan Application : We need to calculate the total no. Loan application received during specific period
-Requested Loan Amount: This is the total amount of money that a borrower requests from a lender when applying for a loan. It's the initial sum that the borrower wants to borrow.
+# Bank Loan Customer - Report
 
-Total Funded Amount : Understanding the total amounts of funds disbursed as loan is crucial.
+## Overview
+This is a data analysis project aimed at solving specific KPIs and creating an interactive dashboard using Excel and Power BI. This study project focuses on gaining insightful findings to assess the bank's profitability.
 
-Total Amount Received : Tracking the total amount received from borrowers is essential for assessing the bank’s cash flow and loan repayment.
+## Domain
+**Finance**
 
-Average Interest Rate : Calculating the average interest rate across all loans in interest rates will provide insights into our lending portfolio’s cost.
+## Project Description
+**Project:** Analysis of bank loan customers
 
-Average Debt-to-Income Ratio (DTI) : Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all Loans.
+**Datasets:** 
+- `Finance_1.xlsx`
+- `Finance_2.xlsx`
 
-Key Performance Indicator’s (KPI’s) Requirements :
-Year wise loan amount Stats
-Grade and sub grade wise revol_bal
-Total Payment for Verified Status Vs Total Payment for Non Verified Status
-State wise and month wise loan status
-Home ownership Vs last payment date stats.
+**Dataset Type: Excel Data
 
+**Dataset Size: Each Excel file contains over 39,000 records.
+
+## Key Performance Indicators (KPIs)
+We have defined several KPIs to determine the bank's financial health:
+
+- **Total Loan Application:** Calculate the total number of loan applications received during a specific period.
+- **Requested Loan Amount:** The total amount of money that borrowers request when applying for a loan.
+- **Total Funded Amount:** The total amounts of funds disbursed as loans.
+- **Total Amount Received:** The total amount received from borrowers, essential for assessing the bank’s cash flow and loan repayment.
+- **Average Interest Rate:** The average interest rate across all loans to provide insights into our lending portfolio’s cost.
+- **Average Debt-to-Income Ratio (DTI):** Evaluating the average DTI for borrowers to gauge their financial health.
+
+## KPI Requirements
+- Year-wise Loan Amount Stats
+- Grade and Sub-Grade Wise Revolving Balance (`revol_bal`)
+- Total Payment for Verified Status vs. Non-Verified Status
+- State-wise and Month-wise Loan Status
+
+## Tools Used
+- **Excel: For initial data cleaning and analysis.
+- **Power BI: For creating interactive dashboards.
+
+## Goals
+- To analyze the bank's loan data to determine profitability.
+- To visualize data in a way that provides actionable insights.
+
+## Conclusion
+This project aims to provide a comprehensive analysis of bank loan data, utilizing Excel and Power BI to present findings that can help in decision-making processes.
